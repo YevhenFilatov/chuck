@@ -1,0 +1,260 @@
+
+.body
+{
+    border: 0;
+}
+
+/*new block*/
+
+
+.mcontainer{
+ width: 380px;
+ margin-left: auto;
+ margin-right: auto;
+background: white;
+}
+.favour{
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+    background:  #F8F8F8;
+}
+.flex{
+    display: flex;
+}
+.contant-block{
+    width: 100%;
+}
+
+
+.header{
+  width: 380px;
+   display: flex;
+     justify-content: space-between; 
+}
+.favourite{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+color: #ABABAB;
+padding-top: 20px;
+padding-right: 20px;
+}
+.title {
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+color: #333333;
+margin-top: 20px;
+margin-left: 20px;
+margin-right: 131px;
+}
+.icon{
+    margin-right: 10px;
+    margin-top: 20px;
+    width: 28px;
+height: 28px;
+}
+.promo
+{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 44px;
+/* identical to box height, or 137% */
+color: #333333;
+margin-left: 20px;
+margin-top: 126px;
+}
+.caption{
+    margin-left: 20px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 44px;  
+}
+.Row {
+    margin-left: 25px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+    
+    
+    color: #333333;
+}
+ .secondRow {
+   
+}
+.buttons{
+
+  margin-top: 20px;
+    
+}
+.animal{
+    font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #ABABAB;
+background: white;
+border: 2px solid #F8F8F8;
+box-sizing: border-box;
+border-radius: 6px;
+width: 85px;
+height: 28px;
+margin-left: 20px;
+margin-right: 10px;
+}
+.career {
+    width: 85px;
+height: 28px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+    
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    color: #ABABAB;    
+    background: white;
+border: 2px solid #F8F8F8;
+box-sizing: border-box;
+border-radius: 6px;
+margin-left: 10px;
+margin-right: 10px;
+}
+.celebrity{
+    width: 107px;
+height: 28px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+    
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    color: black;
+    margin-left: 10px;
+margin-right: 10px;
+    }
+.dev{
+    width: 57px;
+height: 28px;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 16px;
+        /* identical to box height, or 133% */
+        
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        
+        color: #ABABAB;
+        background: white;
+border: 2px solid #F8F8F8;
+box-sizing: border-box;
+border-radius: 6px;
+margin-left: 20px;
+margin-right: 10px;
+margin-top: 16px;
+    }
+.third{
+    margin-top: 20px;
+}
+.searchField{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.getAjoke{
+    width: 152px;
+height: 42px;
+    background: linear-gradient(92.01deg, #8EA7FF 0%, #7291FF 100%);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.buttonText{
+    font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 137% */
+color: #FFFFFF;
+}
+.joke{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 340px;
+    background: #F8F8F8;
+border-radius: 20px;
+}
+.like{
+       
+    margin-left: 300px;
+    margin-top: 20px;   
+}
+
+
+
+.mainBlock
+{ margin-top: 10px;
+    display: flex;
+ flex-direction: row;
+
+}
+.logo{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+}
+.jokeText{
+    width: 240px;
+    flex-wrap: wrap;
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+margin-top: 5px;
+/* or 144% */
+
+
+color: #333333;
+}
+.aboutJoke{
+    font-weight: 500;
+font-size: 10px;
+line-height: 14px;
+/* identical to box height, or 140% */
+color: #ABABAB;
+}
+.update{
+    margin-bottom: 20px;
+}
+/*   second page*/
+.contant-block{
+    flex-direction: column;
+}
+.iconClose{
+    margin-left: 238px;
+    margin-top: 20px;
+}
+.choice{
+  background-color: white ;  
+}
